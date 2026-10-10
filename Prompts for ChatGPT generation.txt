@@ -1,0 +1,4 @@
+
+Prompts for ChatGPT 5.0 generation of the SET reflection journals
+
+I collected 344 in-class learning reflection journals from 43 students and performed topic modeling on these reflections using LDA model (with the optimal number of topics set to 7, k=7). I now have the top 100 keywords and their probabilities for each of the seven modeled topics (from topic0 to topic6), as well as the specific reflection journals under each topic. Based on this information, please generate one sentence for each of my topics. This sentence can mainly describe the information expressed by the topic (for example, what feelings and changes students have, etc.). Let’s go through the topics one by one, starting with topic0. TOP WORDS (word: probability) are .... Reflection journals of the topic are ....
